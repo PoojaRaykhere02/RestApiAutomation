@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-12T06:39:01 GMT" name="All Test Suite" finished-at="2023-02-12T06:39:04 GMT" duration-ms="2787">
+    <groups>
+    </groups>
+    <test started-at="2023-02-12T06:39:01 GMT" name="C:/Users/pooja/RestAssuredProject_OP" finished-at="2023-02-12T06:39:04 GMT" duration-ms="2787">
+      <class name="com.rest.GetMethod">
+        <test-method signature="validate_get_email_method()[pri:0, instance:com.rest.GetMethod@20d28811]" started-at="2023-02-12T06:39:01 GMT" name="validate_get_email_method" finished-at="2023-02-12T06:39:03 GMT" duration-ms="2583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_get_email_method -->
+        <test-method signature="validate_get_method()[pri:0, instance:com.rest.GetMethod@20d28811]" started-at="2023-02-12T06:39:03 GMT" name="validate_get_method" finished-at="2023-02-12T06:39:04 GMT" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_get_method -->
+      </class> <!-- com.rest.GetMethod -->
+      <class name="com.rest.Test">
+        <test-method signature="test()[pri:0, instance:com.rest.Test@4ddced80]" started-at="2023-02-12T06:39:04 GMT" name="test" finished-at="2023-02-12T06:39:04 GMT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.rest.Test -->
+    </test> <!-- C:/Users/pooja/RestAssuredProject_OP -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
